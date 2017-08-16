@@ -1,0 +1,13 @@
+{
+derslerim: [
+{"derskodu":"YBS404","dersadi":"Veri Madenciliği","devamsiniri":"4"},
+{"derskodu":"YBS406","dersadi":"Veri İletişimi ve Bilgisayar Ağları","devamsiniri":"4"},
+{"derskodu":"YBS402","dersadi":"Tedarik Zinciri ve Lojistik Yönetimi","devamsiniri":"4"},
+{"derskodu":"YBS510","dersadi":"E-Girişimcilik","devamsiniri":"4"},
+{"derskodu":"YBS507","dersadi":"Ekip Motivasyonu ve Liderlik","devamsiniri":"4"},
+{"derskodu":"YBS533","dersadi":"İnternet Tabanlı Uygulamalar II","devamsiniri":"4"},
+{"derskodu":"YBS538","dersadi":"Görüntü İşleme Teknikleri","devamsiniri":"4"},
+
+{} 
+ ], kategoriler:[] 
+ } 

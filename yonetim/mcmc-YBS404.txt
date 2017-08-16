@@ -1,0 +1,6 @@
+{
+ogrenciler: [
+
+{} 
+ ], kategoriler:[] 
+ } 

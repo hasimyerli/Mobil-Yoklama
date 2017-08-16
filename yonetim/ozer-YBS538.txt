@@ -1,0 +1,23 @@
+{
+ogrenciler: [
+{"ogrencino":"11010207034" , "adi" : "Zeynep" , "soyadi" : "BALCI" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+{"ogrencino":"11010207049" , "adi" : "Göktuğ" , "soyadi" : "PINAR" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+{"ogrencino":"12010207001" , "adi" : "Ahmet" , "soyadi" : "ŞENLİKOĞLU" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+{"ogrencino":"12010207007" , "adi" : "Seda" , "soyadi" : "TAŞCİ" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+{"ogrencino":"12010207011" , "adi" : "Abdulgani" , "soyadi" : "YILDIZ" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+{"ogrencino":"12010207020" , "adi" : "Yusuf" , "soyadi" : "ALTUNBOĞA" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "0"},
+{"ogrencino":"12010207021" , "adi" : "Alev Nur" , "soyadi" : "AŞKIN" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "0"},
+{"ogrencino":"12010207022" , "adi" : "Uğur" , "soyadi" : "BAŞARAN" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+{"ogrencino":"12010207026" , "adi" : "Miraç" , "soyadi" : "ÇELİK" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "0"},
+{"ogrencino":"12010207028" , "adi" : "Cengizhan" , "soyadi" : "ÜNAL" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "0"},
+{"ogrencino":"12010207037" , "adi" : "Merve" , "soyadi" : "PEKCAN" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "0"},
+{"ogrencino":"12010207040" , "adi" : "Sinan" , "soyadi" : "BAŞORMANCI" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+{"ogrencino":"12010207043" , "adi" : "Büşra" , "soyadi" : "KANDEMİR" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+{"ogrencino":"12010207044" , "adi" : "Utku Mert" , "soyadi" : "ÖZEN" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "0"},
+{"ogrencino":"12010207052" , "adi" : "Turğay" , "soyadi" : "ULUTAŞ" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "0"},
+{"ogrencino":"12010207053" , "adi" : "Emre" , "soyadi" : "ABANOZOĞLU" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+{"ogrencino":"12010207059" , "adi" : "Mergen" , "soyadi" : "MUHAMEDOV" , "derskodu" : "YBS538" , "derssahibi" : "ozer" , "devamsizlik" : "1"},
+
+{} 
+ ], kategoriler:[] 
+ } 

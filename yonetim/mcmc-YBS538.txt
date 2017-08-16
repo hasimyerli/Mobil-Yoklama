@@ -1,0 +1,14 @@
+{
+ogrenciler: [
+{"ogrencino":"103" , "adi" : "Emre" , "soyadi" : "ABANOZOĞLU" , "derskodu" : "YBS538" , "derssahibi" : "mcmc" , "devamsizlik" : "4"},
+{"ogrencino":"104" , "adi" : "Abdulgani" , "soyadi" : "YILDIZ" , "derskodu" : "YBS538" , "derssahibi" : "mcmc" , "devamsizlik" : "4"},
+{"ogrencino":"12010207021" , "adi" : "Alev Nur" , "soyadi" : "AŞKIN" , "derskodu" : "YBS538" , "derssahibi" : "mcmc" , "devamsizlik" : "2"},
+{"ogrencino":"12010207026" , "adi" : "Miraç" , "soyadi" : "ÇELİK" , "derskodu" : "YBS538" , "derssahibi" : "mcmc" , "devamsizlik" : "3"},
+{"ogrencino":"12010207044" , "adi" : "Utku Mert" , "soyadi" : "ÖZEN" , "derskodu" : "YBS538" , "derssahibi" : "mcmc" , "devamsizlik" : "2"},
+{"ogrencino":"12010207050" , "adi" : "Volkan" , "soyadi" : "ÖZER" , "derskodu" : "YBS538" , "derssahibi" : "mcmc" , "devamsizlik" : "3"},
+{"ogrencino":"505" , "adi" : "Volkan" , "soyadi" : "ÖZER" , "derskodu" : "YBS538" , "derssahibi" : "mcmc" , "devamsizlik" : "2"},
+{"ogrencino":"999" , "adi" : "Sinan" , "soyadi" : "BAŞORMANCI" , "derskodu" : "YBS538" , "derssahibi" : "mcmc" , "devamsizlik" : "1"},
+
+{} 
+ ], kategoriler:[] 
+ } 
